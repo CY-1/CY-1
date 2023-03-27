@@ -5,7 +5,7 @@
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
 - 🚀 I use daily:
-  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
+  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
