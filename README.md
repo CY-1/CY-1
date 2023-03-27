@@ -41,15 +41,15 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/CY-1/cou
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CY-1&layout=compact" alt="Top Langs" height="160" />
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=CY-1&show_icons=true" alt="all-smile's GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=CY-1&show_icons=true" alt="CY-1's GitHub stats" height="160" />
 </td>
 </tr>
 </table>
 -->
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CY-1&layout=compact)
+![CY-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=CY-1&show_icons=true)
 -->
 
 ### My Skill Set
