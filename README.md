@@ -5,7 +5,7 @@
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
 - 🚀 I use daily:
-  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+  [![python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
@@ -17,9 +17,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
   [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://blog.i-xiao.space/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://blog.i-xiao.space/)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://blog.i-xiao.space/)
 
