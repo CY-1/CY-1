@@ -30,9 +30,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white)]()
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)]() visitor, Thank You!🎉🎉
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/CY-1/count.svg)]() visitor, Thank You!🎉🎉
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CY-1&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=CY-1&count_private=true&show_icons=true" height=145/></span>]()
 
@@ -40,10 +38,10 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 <table border="0">
 <tr>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CY-1&layout=compact" alt="Top Langs" height="160" />
 </td>
 <td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=CY-1&show_icons=true" alt="all-smile's GitHub stats" height="160" />
 </td>
 </tr>
 </table>
