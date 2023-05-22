@@ -5,10 +5,10 @@
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
 - 🚀 I use daily:
-  [![python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)]()
+  [![java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
-  [![java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
+  [![python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)]()
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]()
 
@@ -17,7 +17,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]()
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
-  [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&logo=vim&logoColor=white)]()
 
 - ⚙️ I also use and work:
   [![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)]()
@@ -26,7 +25,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 - 🌱 I’m currently learning:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)]()
   [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white)]()
 
 
